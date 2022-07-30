@@ -1,1 +1,3 @@
 # OUR-PROJECT
+
+## project notes
